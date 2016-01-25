@@ -1,9 +1,9 @@
 # Introduction
-## This is a tutorial walking you through the text analysis tool [Voyant](http://voyant-tools.org/). It is designed to help you work with various texts. This could be either your own text or an existing collection of texts already online. You can use plain text, HTML, XML, PDF, RTF, and MS Word documents in this tool. You can find out a variety of information about your texts by simply uploading your text to Voyant and using the useful tools it has! 
+- This is a tutorial walking you through the text analysis tool [Voyant](http://voyant-tools.org/). It is designed to help you work with various texts. This could be either your own text or an existing collection of texts already online. You can use plain text, HTML, XML, PDF, RTF, and MS Word documents in this tool. You can find out a variety of information about your texts by simply uploading your text to Voyant and using the useful tools it has! 
 
 # Software & Setup
-## Since this is a web-based tool, you do not need to download anything! Yipee! Simply go to the [Voyant Website](http://voyant-tools.org/) to begin. 
-## You have many options for uploading your text to the website. You can copy and paste a text into the text box (or type something): 
+- Since this is a web-based tool, you do not need to download anything! Yipee! Simply go to the [Voyant Website](http://voyant-tools.org/) to begin. 
+- You have many options for uploading your text to the website. You can copy and paste a text into the text box (or type something): 
 ![Voyant1](Voyant1.png)
 
 # Using the tool
