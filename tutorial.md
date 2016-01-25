@@ -49,5 +49,5 @@ I chose the word "Art" to search. Voyant highlights the search term, and on the 
 
 # Conclusion
 - Overall, this is a very accesible web-based tool for text analysis. Voyant is easy to use and understand. It allows you to see your texts and documents in different visual capacities. It would be useful for things like resumes or term papers, to see if you repeated a word too often. This would result in a quick and easy fix. By visualizing where certain words are in a text, this can give you a sense of what subjects are talked about in those areas. 
-- If you want a fuller discussion (and further examples of what this tool can show you) check out my [Text Analysis Assignment]() 
+- If you want a fuller discussion (and further examples of what this tool can show you) check out my [Text Analysis Assignment](https://github.com/elisebigley/text-analysis-assignment/blob/master/Text%20Analysis.md) 
 
