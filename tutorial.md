@@ -4,7 +4,7 @@
 # Software & Setup
 - Since this is a web-based tool, you do not need to download anything! Yipee! Simply go to the [Voyant Website](http://voyant-tools.org/) to begin. 
 - You have many options for uploading your text to the website. You can copy and paste a text into the text box (or type something): 
-![Voyant1](Voyant1.png)
+![Voyant1](Images/Voyant1.png)
 - OR you can upload a document from your computer: 
 ![Voyant2](Voyant2.png)
 - Press "Upload" and then "Add" 
